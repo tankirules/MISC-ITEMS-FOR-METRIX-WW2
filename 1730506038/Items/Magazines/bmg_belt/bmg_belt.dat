@@ -1,0 +1,24 @@
+GUID 92ab6d6c4bb74f81a1e57f53f8f67361
+Type Magazine
+ID 30018
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Amount 200
+Count_Min 200
+Count_Max 200
+
+Calibers 1
+Caliber_0 18
+
+Tracer 48
+
+Explosion 30019
+Explosive
+
+Delete_Empty
+
+Bypass_Hash_Verification
+

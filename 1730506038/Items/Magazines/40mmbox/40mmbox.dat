@@ -1,0 +1,32 @@
+GUID ac71086488ea40fd8c9f509e87be468d
+Type Magazine
+ID 30095
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 50
+Count_Min 40
+Count_Max 50
+
+Calibers 1
+Caliber_0 15
+
+Range 15
+Player_Damage 10
+Zombie_Damage 25
+Animal_Damage 25
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 110
+Resource_Damage 250
+Object_Damage 75
+Explosion 54
+Explosive
+
+Tracer 49
+
+Delete_Empty
+Bypass_Hash_Verification
+

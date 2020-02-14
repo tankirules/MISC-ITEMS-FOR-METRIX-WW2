@@ -1,0 +1,42 @@
+GUID ae19be14e6a74e9db13a2a0b27281626
+Type Vehicle
+Rarity Uncommon
+ID 30072
+
+Speed_Min -8
+Speed_Max 50
+
+Steer_Min 14
+Steer_Max 27
+
+Brake 32
+Lift 5
+
+Fuel 1500
+
+Health_Min 600
+Health_Max 800
+Health 500
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+Reclined
+
+Cam_Follow_Distance 8
+
+Explosion 20
+Tires_Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 41202
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+
+Bypass_Hash_Verification 
+
+Exclude_From_Master_Bundle

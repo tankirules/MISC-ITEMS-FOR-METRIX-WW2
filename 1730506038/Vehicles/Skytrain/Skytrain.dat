@@ -1,0 +1,36 @@
+GUID 74dd647ee7b84e56a199c0550ee889e5
+Type Vehicle
+Rarity Epic
+ID 30060
+
+Speed_Min -10
+Speed_Max 33
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 32
+Lift 5
+
+Fuel_Min 50
+Fuel_Max 100
+Fuel 1750
+
+Health_Min 300
+Health_Max 300
+Health 300
+
+Exit 6
+
+Cam_Follow_Distance 9
+Passenger_Explosion_Armor 0.2
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Explosion 20
+
+Bypass_Hash_Verification
+

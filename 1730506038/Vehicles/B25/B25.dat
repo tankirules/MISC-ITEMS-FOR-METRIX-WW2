@@ -1,0 +1,82 @@
+GUID 49bd02286a484312be6bc0d1bc5dc876
+Type Vehicle
+Rarity Epic
+ID 30055
+
+Speed_Min -8
+Speed_Max 35
+
+Steer_Min 15
+Steer_Max 28
+
+Brake 32
+Lift 5
+
+Fuel 2400
+
+Battery_Burn_Rate 0
+Battery_Charge_Rate 1
+
+Health_Min 850
+Health_Max 1000
+Health 1000
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Cam_Follow_Distance 15
+
+Air_Turn_Responsiveness 1.4
+Air_Steer_Min 48
+Air_Steer_Max 64
+
+Passenger_Explosion_Armor 0.2
+
+Exit 10
+
+Explosion 20
+Tires_Invulnerable
+
+Turrets 6
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 42600
+Turret_0_Yaw_Min -30
+Turret_0_Yaw_Max 30
+Turret_0_Pitch_Min 50
+Turret_0_Pitch_Max 120
+Turret_0_Ignore_Aim_Camera
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 42630
+Turret_1_Yaw_Min -9999
+Turret_1_Yaw_Max 9999
+Turret_1_Pitch_Min 20
+Turret_1_Pitch_Max 95
+Turret_2_Seat_Index 2
+Turret_2_Item_ID 42630
+Turret_2_Yaw_Min -15
+Turret_2_Yaw_Max 15
+Turret_2_Pitch_Min 75
+Turret_2_Pitch_Max 105
+Turret_3_Seat_Index 3
+Turret_3_Item_ID 30056
+Turret_3_Yaw_Min -45
+Turret_3_Yaw_Max 45
+Turret_3_Pitch_Min 70
+Turret_3_Pitch_Max 100
+Turret_4_Seat_Index 4
+Turret_4_Item_ID 30056
+Turret_4_Yaw_Min -45
+Turret_4_Yaw_Max 45
+Turret_4_Pitch_Min 70
+Turret_4_Pitch_Max 100
+Turret_5_Seat_Index 5
+Turret_5_Item_ID 41500
+Turret_5_Yaw_Min 0
+Turret_5_Yaw_Max 0
+Turret_5_Pitch_Min 70
+Turret_5_Pitch_Max 90
+
+Bypass_Hash_Verification
+Exclude_From_Master_Bundle

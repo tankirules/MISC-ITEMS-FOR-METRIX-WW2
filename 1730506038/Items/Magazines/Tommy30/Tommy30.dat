@@ -1,0 +1,33 @@
+GUID 4eea6b1f2f184c23b6c0de3d7e4e9a3b
+Type Magazine
+ID 30083
+
+Size_X 1
+Size_Y 2
+Size_Z 0.325
+
+Amount 30
+Count_Min 20
+Count_Max 30
+
+Calibers 1
+Caliber_0 4
+
+Tracer 48
+Spread 0.9
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 30083
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 100
+Blueprint_2_Build 30
+Bypass_Hash_Verification
+

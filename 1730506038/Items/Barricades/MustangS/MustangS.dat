@@ -1,0 +1,18 @@
+GUID 59fd5102f7d5456f8a5ac80cc9e88474
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Vehicle
+ID 30043
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 30043
+
+Bypass_Hash_Verification

@@ -1,0 +1,20 @@
+GUID 5dd051edcf89443986bb5bda056b6788
+Type Grip
+Rarity Epic
+ID 30036
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Recoil_X 1
+Recoil_Y 1
+
+Spread 1
+Sway 1
+Shake 0.5
+
+Bipod
+Paintable
+Bypass_Hash_Verification
+

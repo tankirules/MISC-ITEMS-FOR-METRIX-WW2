@@ -1,0 +1,17 @@
+GUID 5e9a34bc20774263aa4d3d9161960561
+Type Grip
+ID 30085
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Recoil_X 0.4
+Recoil_Y 0.8
+
+Spread 0.8
+Shake 0.8
+
+Paintable
+Bypass_Hash_Verification
+

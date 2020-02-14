@@ -1,0 +1,28 @@
+GUID 388fc53655b144e5900633aede5c5925
+Type Magazine
+Rarity Rare
+ID 30101
+
+Size_X 5
+Size_Y 3
+Size_Z 0.45
+
+Amount 200
+
+Calibers 1
+Caliber_0 1056
+
+Pellets 2
+
+
+Explosion 53
+Explosive
+
+Tracer 49
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 30101
+Blueprint_0_Build 30
+Exclude_From_Master_Bundle

@@ -1,0 +1,76 @@
+GUID 40814079496846c0ba26720de4444f39
+Type Vehicle
+Rarity Legendary
+ID 30081
+
+Speed_Min -4
+Speed_Max 7.5
+
+Steer_Min 75
+Steer_Max 75
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 8000
+
+Health_Min 500
+Health_Max 600
+Health 30000
+
+Exit 20
+
+Cam_Follow_Distance 35
+
+Passenger_Explosion_Armor 0.15
+
+Invulnerable
+
+Engine Boat
+
+Explosion 20
+
+Turrets 7
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 30090
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 45
+Turret_0_Pitch_Max 120
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 30090
+Turret_1_Yaw_Min -135
+Turret_1_Yaw_Max 135
+Turret_1_Pitch_Min 45
+Turret_1_Pitch_Max 120
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 30090
+Turret_2_Yaw_Min -135
+Turret_2_Yaw_Max 135
+Turret_2_Pitch_Min 45
+Turret_2_Pitch_Max 120
+Turret_3_Seat_Index 4
+Turret_3_Item_ID 30090
+Turret_3_Yaw_Min -135
+Turret_3_Yaw_Max 135
+Turret_3_Pitch_Min 45
+Turret_3_Pitch_Max 120
+Turret_4_Seat_Index 5
+Turret_4_Item_ID 30094
+Turret_4_Yaw_Min -9999
+Turret_4_Yaw_Max 9999
+Turret_4_Pitch_Min 25
+Turret_4_Pitch_Max 170
+Turret_5_Seat_Index 6
+Turret_5_Item_ID 41300
+Turret_5_Yaw_Min -9999
+Turret_5_Yaw_Max 9999
+Turret_5_Pitch_Min 1
+Turret_5_Pitch_Max 170
+Turret_6_Seat_Index 7
+Turret_6_Item_ID 41300
+Turret_6_Yaw_Min -9999
+Turret_6_Yaw_Max 9999
+Turret_6_Pitch_Min 1
+Turret_6_Pitch_Max 170
+Bypass_Hash_Verification
+

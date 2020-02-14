@@ -1,0 +1,166 @@
+30000 - Scoped mosin
+30001 - Scoped Kar
+30002 - ppk
+30003 - ppk mag
+30004 - colt
+30005 - colt mag
+30006 - tt33
+30007 - tt33 mag
+
+30008 - 1lt KM shirt
+30009 - km pants
+30010 - pilot goggles
+
+30011 - USN OFF CAP
+
+30012 - FRANCE EARRAPEmg belt
+
+30013 - FRANCE EARRAPE effect
+30014 - german mg belt
+30015 - g effect
+
+30016 - soviet belt
+30017 - soviet effect
+
+30018 - b belt
+30019 - brit effect
+
+30020 - UIcount
+30021 ui count delete
+
+30022 canned water
+
+30023 grenade temp
+30024 rations
+
+30025 mg
+
+30026 kar98k
+30027 kar98k clip
+
+30028 - springfield
+30029 - springfield clip
+
+30030 - Lee Enfield no 4 mk 1 
+30031 - Lee Clip .303 10 rounds
+
+30032 - De Lisle Carbine
+30033 - SMLE
+
+30034 Carcano
+30035 carcano clip
+
+30036 lee enfield bipod testing
+30037 Lee enfield no4 mk 1 with bolt cycle aiming test
+
+30038 scoped kar98k
+30039 scoped springfield
+
+-------------vehicles AND spawners (same id)
+30040 ar196
+30041 fw190
+30042 emil
+30043 mustang
+30044 SBD
+30045 spitfire
+30046 typhoon
+30047 hurricane
+
+
+---------------------------spawners only
+30048 bubbles b25
+
+-------------vehicles AND spawners (same id)
+
+30049 skink
+30050 wirbel
+30051 American towed AA
+30052 german towed AA
+
+
+--------items---------
+30053 quad 50 cal gun from normans mod
+30054 quad 50 cal box from normans mod
+
+-------------vehicles AND spawners (same id)
+30055 b25
+
+--------items---------
+30056 single 50 cal normans
+30057 single 50 cal ammo normans 
+
+30058 - m2 carbine
+30059 - m2 carbine mag
+
+-------------vehicles AND spawners (same id)
+30060 - skytrain
+30061 - ju52
+
+--------items---------
+30062 fg42
+30063 fg42 mag
+
+30064 British flare gun
+30065 German Flare gun
+30066 italian flare gun
+30067 yet US flare gun
+
+30068 british song and effect
+30069 german ^
+30070 italian ^
+30071 US ^
+-------------vehicles AND spawners (same id)
+30072 - g55 
+
+--------items---------
+30073 Whatever flare gun
+30074 whatever effect and song
+30075 bren
+30076 bren 30
+30077 bren 100
+
+trench gun 30078
+double barrel 30079
+
+-------------vehicles AND spawners (same id)
+30080 fletcher artillery
+30081 akizuki artillery
+
+--------items---------
+30082 secret bipod for bren and mg
+
+tommy30 30083
+tommy50 30084
+tommygrip 30085
+tommy 30086
+
+----animals
+30087 kangaroo
+30088 rattlesnake
+--------items---------
+30089 silent belt for earrape gun
+30090 2x artillery cannon
+30091 1x artillery cannon caliber 1129
+30092 1x naval ap shell
+30093 1x naval he shell
+
+30094 40mm for akizuki
+30095 40mm ammo
+
+30096 breda
+30097 breda 20 mag
+
+30098 sniper plus kar98k
+30099 sniper plus springfield
+
+30100 dual hmg 50 from ww2 dep caliber 1056
+30101 dual hmg 50 box
+30102 browning 30 heavyplus
+30103 mg42 heavyplus
+30104 mg42 bipod
+30105 browning bipod
+
+30106 normal browning
+30107 normal mg42 
+
+30108 tea

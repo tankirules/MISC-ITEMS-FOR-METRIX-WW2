@@ -1,0 +1,28 @@
+GUID 1f840b783a6c4450bb029ae8db3e04a0
+Type Magazine
+ID 30031
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 10
+Count_Min 5
+Count_Max 10
+
+Calibers 1
+Caliber_0 55
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 30031
+Blueprint_1_Build 30
+Bypass_Hash_Verification
+

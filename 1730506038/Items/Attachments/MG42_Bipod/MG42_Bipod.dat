@@ -1,0 +1,19 @@
+GUID ed8f27d93646458ea549b0e3970bd835
+Type Grip
+Rarity Epic
+ID 30104
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Recoil_X 0.3
+Recoil_Y 0.5
+
+Spread 0.4
+Sway 0.4
+Shake 0.3
+
+Bipod
+Paintable
+Bypass_Hash_Verification

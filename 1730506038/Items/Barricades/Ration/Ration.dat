@@ -1,0 +1,16 @@
+GUID 908759f4f34243f2a40567bccfe7f6f9
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 30024
+
+Health 250
+Range 10
+Radius 0
+Offset 0.05
+
+Size_X 2
+Size_Y 4
+Size_Z 0.5
+

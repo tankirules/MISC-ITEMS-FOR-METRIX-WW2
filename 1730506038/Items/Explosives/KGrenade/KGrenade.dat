@@ -1,0 +1,23 @@
+GUID 5e054c18348543be93ff9be6149b9818
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 30023
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Player_Damage 225
+Zombie_Damage 225
+Animal_Damage 225
+Barricade_Damage 90
+Structure_Damage 90
+Vehicle_Damage 300
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 13
+Explosion 34
+
+Explosive

@@ -1,0 +1,22 @@
+GUID 13900a8f0fc147d0b6cfe56176bcb1d8
+Type Magazine
+Rarity Rare
+ID 30057
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 100
+
+Calibers 1
+Caliber_0 1007
+
+Tracer 55
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 30057
+Blueprint_0_Build 30
+Exclude_From_Master_Bundle

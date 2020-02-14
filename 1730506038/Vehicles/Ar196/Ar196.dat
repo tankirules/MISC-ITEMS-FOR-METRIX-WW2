@@ -1,0 +1,46 @@
+GUID affe3a9a56d64e178c14359eadca6411
+Type Vehicle
+Rarity Epic
+ID 30040
+
+Speed_Min -4
+Speed_Max 28
+
+Steer_Min 10
+Steer_Max 18
+
+Brake 32
+Lift 6
+
+Fuel 1700
+
+Health_Min 600
+Health_Max 1000
+Health 700
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Exit 10
+
+Explosion 20
+
+Turrets 2
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 41300
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 41200
+Turret_1_Yaw_Min -60
+Turret_1_Yaw_Max 60
+Turret_1_Pitch_Min 20
+Turret_1_Pitch_Max 110
+
+
+Bypass_Hash_Verification
+

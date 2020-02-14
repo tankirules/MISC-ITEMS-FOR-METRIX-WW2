@@ -1,0 +1,16 @@
+Type Animal
+ID 30088
+
+Speed_Run 20
+Speed_Walk 10
+
+Behaviour Offense
+
+Health 115
+Regen 0.2
+Damage 15
+
+Reward_ID 523
+Reward_XP 30
+
+Roars 1

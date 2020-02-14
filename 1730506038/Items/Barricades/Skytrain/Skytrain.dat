@@ -1,0 +1,18 @@
+GUID a86fae83c60847ee9aa36bd2ffc290be
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Vehicle
+ID 30060
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 30060
+
+Bypass_Hash_Verification

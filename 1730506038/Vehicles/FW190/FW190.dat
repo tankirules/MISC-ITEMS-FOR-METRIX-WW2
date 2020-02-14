@@ -1,0 +1,41 @@
+GUID 715f00e22a8a4340a9e99ea1a5cd8519
+Type Vehicle
+Rarity Epic
+ID 30041
+
+Speed_Min -8
+Speed_Max 55
+
+Steer_Min 12
+Steer_Max 23
+
+Brake 32
+Lift 5
+
+Fuel 1500
+
+Health_Min 600
+Health_Max 800
+Health 550
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+Reclined
+
+Cam_Follow_Distance 8
+
+Explosion 20
+Tires_Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 41300
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera
+
+Bypass_Hash_Verification

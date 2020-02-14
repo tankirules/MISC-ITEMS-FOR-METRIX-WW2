@@ -1,0 +1,12 @@
+Type Animal
+ID 30087
+
+Speed_Run 8
+Speed_Walk 3
+
+Behaviour Defense
+
+Health 120
+
+Reward_ID 523
+Reward_XP 25

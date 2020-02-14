@@ -1,0 +1,36 @@
+GUID ad82a350943a4ffaabf14dffdba27c2d
+Type Magazine
+Rarity Rare
+ID 30054
+
+Size_X 2
+Size_Y 3
+Size_Z 0.45
+
+Amount 200
+
+Calibers 1
+Caliber_0 1008
+
+Pellets 4
+
+Range .5
+Player_Damage 5
+Zombie_Damage 20
+Animal_Damage 20
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 10
+Resource_Damage 25
+Object_Damage 10
+Explosion 53
+Explosive
+
+Tracer 49
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 30054
+Blueprint_0_Build 30
+Exclude_From_Master_Bundle

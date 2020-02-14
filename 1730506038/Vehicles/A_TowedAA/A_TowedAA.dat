@@ -1,0 +1,33 @@
+GUID 2e4532eee9bd425ab301584943824f4c
+Type Vehicle
+ID 30051
+
+Speed_Min -9
+Speed_Max 12
+
+Steer_Min 20
+Steer_Max 32
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1500
+
+Health_Min 400
+Health_Max 500
+Health 1500
+
+Traction
+
+Explosion 20
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 41202
+Turret_0_Yaw_Min -2000
+Turret_0_Yaw_Max 2000
+Turret_0_Pitch_Min 1
+Turret_0_Pitch_Max 80
+Bypass_Hash_Verification
+
