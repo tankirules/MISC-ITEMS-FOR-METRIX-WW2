@@ -16,20 +16,19 @@ Bursts 1
 
 Caliber 1129
 
-Range 15
+Range 25
 Explosion 45
 Firerate 1
 Action Rocket
 
-Ballistic_Force 4000
-Ballistic_Drop 0.7	
+Ballistic_Force 6000
 
 Player_Damage 150
-Barricade_Damage 400
-Structure_Damage 200
-Vehicle_Damage 40
-Resource_Damage 2000
-Object_Damage 2000
+Barricade_Damage 1500
+Structure_Damage 1500
+Vehicle_Damage 1000
+Resource_Damage 2500
+Object_Damage 2500
 
 
 Invulnerable

@@ -4,30 +4,39 @@ Rarity Epic
 ID 30040
 
 Speed_Min -4
-Speed_Max 28
+Speed_Max 35
 
-Steer_Min 10
-Steer_Max 18
+Steer_Min 15
+Steer_Max 28
 
 Brake 32
 Lift 6
 
 Fuel 1700
 
+Battery_Burn_Rate 0
+Battery_Charge_Rate 1
+
 Health_Min 600
-Health_Max 1000
+Health_Max 700
 Health 700
 
 LockMouse
 Engine Plane
 Sleds
 Traction
+Crawler
+
+Air_Turn_Responsiveness 1.2
+Air_Steer_Min 48
+Air_Steer_Max 64
 
 Exit 10
 
 Explosion 20
+Tires_Invulnerable
 
-Turrets 2
+Turrets 3
 Turret_0_Seat_Index 0
 Turret_0_Item_ID 41300
 Turret_0_Yaw_Min 0
@@ -40,7 +49,12 @@ Turret_1_Yaw_Min -60
 Turret_1_Yaw_Max 60
 Turret_1_Pitch_Min 20
 Turret_1_Pitch_Max 110
-
+Turret_2_Seat_Index 2
+Turret_2_Item_ID 41400
+Turret_2_Yaw_Min 0
+Turret_2_Yaw_Max 0
+Turret_2_Pitch_Min 135
+Turret_2_Pitch_Max 180
 
 Bypass_Hash_Verification
 

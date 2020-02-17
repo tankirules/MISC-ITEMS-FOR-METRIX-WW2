@@ -1,0 +1,17 @@
+GUID 17ece1eb563f4571ba7a3656e721f63f
+Type Grip
+ID 30115
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 0.4
+Recoil_Y 0.7
+
+Spread 0.8
+Shake 0.8
+
+Paintable
+Bypass_Hash_Verification
+

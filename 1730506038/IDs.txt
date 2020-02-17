@@ -164,3 +164,11 @@ tommy 30086
 30107 normal mg42 
 
 30108 tea
+
+30109 mortar
+30110 mortar ammo
+30111 STG scope
+30112 BAR scope
+30113 sten
+30114 sten mag
+30115 sten grip
