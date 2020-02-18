@@ -1,0 +1,14 @@
+Type Shirt
+Useable Clothing
+ID 15261
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 8
+
+Armor 0.9
+Bypass_Hash_Verification
+

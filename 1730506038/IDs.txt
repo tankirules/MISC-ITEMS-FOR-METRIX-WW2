@@ -172,3 +172,11 @@ tommy 30086
 30113 sten
 30114 sten mag
 30115 sten grip
+
+30116 heer 2lt
+30117  heer1lt
+30118 heer cpt
+30119 heer maj
+30120 heer ltcol
+30121 heer col
+30122 heer bg
