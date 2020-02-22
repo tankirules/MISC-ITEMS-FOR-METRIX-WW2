@@ -180,4 +180,8 @@ tommy 30086
 30120 heer ltcol
 30121 heer col
 30122 heer bg
-30123 parachute test
+30123 parachute 
+
+30124 sieg heil
+30125 us salute
+30126 british salute

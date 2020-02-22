@@ -1,0 +1,58 @@
+GUID dffaa4c19d474021b6dec4f360642770
+Type Gun
+Rarity Common
+Useable Gun
+Slot Primary
+ID 30109
+
+Size_X 3
+Size_Y 3
+Size_Z 0.9
+Size2_Z 0.9
+
+Magazine 30110
+
+Ammo_Min 1
+Ammo_Max 1
+
+Semi
+
+Caliber 20
+
+Firerate 50
+Replace 0.5
+Action Rocket
+
+Player_Damage 120
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 1000
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 20
+Explosion 45
+
+Invulnerable
+
+Spread_Aim 2
+Spread_Hip 2
+
+Ballistic_Force 2500
+
+Recoil_Min_X -3
+Recoil_Min_Y 3
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
