@@ -3,15 +3,19 @@ Type Vehicle
 Rarity Legendary
 ID 30081
 
-Speed_Min -4
-Speed_Max 7.5
+Speed_Min -24
+Speed_Max 45
 
-Steer_Min 75
-Steer_Max 75
+Steer_Min 450
+Steer_Max 450
 
 Fuel_Min 250
 Fuel_Max 500
 Fuel 8000
+
+
+Trunk_Storage_X 9
+Trunk_Storage_Y 9
 
 Health_Min 500
 Health_Max 600
