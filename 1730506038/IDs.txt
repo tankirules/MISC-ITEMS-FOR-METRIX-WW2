@@ -185,3 +185,6 @@ tommy 30086
 30124 sieg heil
 30125 us salute
 30126 british salute
+
+30127 webley revolver
+30128 webley mag
