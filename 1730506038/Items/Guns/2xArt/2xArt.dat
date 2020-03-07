@@ -18,10 +18,10 @@ Caliber 1128
 
 Range 25	
 Explosion 45
-Firerate 1
+Firerate 100
 Action Rocket
 
-Ballistic_Force 5700
+Ballistic_Force 6000
 
 Player_Damage 150
 Barricade_Damage 1500
@@ -35,13 +35,13 @@ Invulnerable
 Spread_Aim 0.2
 Spread_Hip 0.025
 
-Recoil_Min_X -0.1
-Recoil_Min_Y 0.3
-Recoil_Max_X 0.1		
-Recoil_Max_Y 0.5
+Recoil_Min_X -1
+Recoil_Min_Y 3
+Recoil_Max_X 1		
+Recoil_Max_Y 6
 
-Recover_X 0.5
-Recover_Y 0.5
+Recover_X 0.4
+Recover_Y 0.4
 
 Muzzle 4
 
