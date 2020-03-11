@@ -56,3 +56,4 @@ Shake_Min_Z -0.01
 Shake_Max_X 0.0025
 Shake_Max_Y -0.0025
 Shake_Max_Z -0.02
+Bypass_Hash_Verification
