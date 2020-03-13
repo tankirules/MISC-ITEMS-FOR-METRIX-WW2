@@ -59,4 +59,5 @@ Shake_Max_Y -0.01
 Shake_Max_Z -0.15
 
 Muzzle 3
+Bypass_Hash_Verification
 

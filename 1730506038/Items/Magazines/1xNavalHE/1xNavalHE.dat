@@ -26,5 +26,4 @@ Explosion 45
 Explosive
 
 Tracer 49
-
-Exclude_From_Master_Bundle
+Bypass_Hash_Verification
