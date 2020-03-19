@@ -32,7 +32,7 @@ Engine Boat
 
 Explosion 20
 
-Turrets 10
+Turrets 11
 Turret_0_Seat_Index 1
 Turret_0_Item_ID 30091
 Turret_0_Yaw_Min -135
@@ -58,7 +58,7 @@ Turret_3_Yaw_Max 135
 Turret_3_Pitch_Min 45
 Turret_3_Pitch_Max 120
 Turret_4_Seat_Index 5
-Turret_4_Item_ID 30100
+Turret_4_Item_ID 40200
 Turret_4_Yaw_Min -9999
 Turret_4_Yaw_Max 9999
 Turret_4_Pitch_Min 1
@@ -82,16 +82,22 @@ Turret_7_Yaw_Max 9999
 Turret_7_Pitch_Min 1
 Turret_7_Pitch_Max 170
 Turret_8_Seat_Index 9
-Turret_8_Item_ID 30100
+Turret_8_Item_ID 41300
 Turret_8_Yaw_Min -9999
 Turret_8_Yaw_Max 9999
 Turret_8_Pitch_Min 1
 Turret_8_Pitch_Max 170
 Turret_9_Seat_Index 10
-Turret_9_Item_ID 30100
+Turret_9_Item_ID 41300
 Turret_9_Yaw_Min -9999
 Turret_9_Yaw_Max 9999
 Turret_9_Pitch_Min 1
 Turret_9_Pitch_Max 170
+Turret_10_Seat_Index 11
+Turret_10_Item_ID 30129
+Turret_10_Yaw_Min -9999
+Turret_10_Yaw_Max 9999
+Turret_10_Pitch_Min 0
+Turret_10_Pitch_Max 360
 Bypass_Hash_Verification
 

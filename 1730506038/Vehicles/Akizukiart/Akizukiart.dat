@@ -33,7 +33,7 @@ Engine Boat
 
 Explosion 20
 
-Turrets 7
+Turrets 8
 Turret_0_Seat_Index 1
 Turret_0_Item_ID 30090
 Turret_0_Yaw_Min -135
@@ -76,5 +76,11 @@ Turret_6_Yaw_Min -9999
 Turret_6_Yaw_Max 9999
 Turret_6_Pitch_Min 1
 Turret_6_Pitch_Max 170
+Turret_7_Seat_Index 8
+Turret_7_Item_ID 30129
+Turret_7_Yaw_Min -9999
+Turret_7_Yaw_Max 9999
+Turret_7_Pitch_Min 0
+Turret_7_Pitch_Max 360
 Bypass_Hash_Verification
 
