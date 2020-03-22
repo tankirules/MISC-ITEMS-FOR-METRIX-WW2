@@ -56,7 +56,7 @@ Spread_Hip 0.1
 Ballistic_Steps 32
 Ballistic_Travel 12.5
 
-Recoil_Min_X 1
+Recoil_Min_X 2
 Recoil_Min_Y 2.5
 Recoil_Max_X 3
 Recoil_Max_Y 4
@@ -66,10 +66,10 @@ Recover_Y 0.75
 
 Shake_Min_X -0.005
 Shake_Min_Y 0.005
-Shake_Min_Z -0.05
+Shake_Min_Z -0.2
 Shake_Max_X 0.005
 Shake_Max_Y -0.005
-Shake_Max_Z -0.1
+Shake_Max_Z -0.3
 
 Muzzle 3
 
