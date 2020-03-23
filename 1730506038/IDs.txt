@@ -189,3 +189,18 @@ tommy 30086
 30127 webley revolver
 30128 webley mag
 30129 navalbinos
+
+30130 red artillery cannon
+30131 green
+30132 blue
+30133 yellow
+
+30134 red explosion effect
+30135 green
+30136 blue
+30137 yellow
+
+30138 red artillery 2x cannon
+30139 green
+30140 blue
+30141 yellow

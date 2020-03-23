@@ -1,0 +1,50 @@
+GUID 44c1dc0fa7824c6babac5fc049a44219
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 30141
+
+Sight 1301
+Magazine 42801
+
+Ammo_Min 2
+Ammo_Max 2
+
+Semi
+Bursts 2
+
+Caliber 1128
+
+Range 50
+Explosion 30137
+Firerate 100
+Action Rocket
+
+Ballistic_Force 6000
+
+Player_Damage 150
+Barricade_Damage 1500
+Structure_Damage 1500
+Vehicle_Damage 1000
+Resource_Damage 2500
+Object_Damage 2500
+
+Invulnerable
+
+Spread_Aim 0.2
+Spread_Hip 0.025
+
+Recoil_Min_X -1
+Recoil_Min_Y 3
+Recoil_Max_X 1		
+Recoil_Max_Y 6
+
+Recover_X 0.4
+Recover_Y 0.4
+
+Muzzle 4
+
+Reload_Time 20
+Turret
+Bypass_Hash_Verification

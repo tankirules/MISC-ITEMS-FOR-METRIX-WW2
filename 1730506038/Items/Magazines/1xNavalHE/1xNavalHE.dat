@@ -13,17 +13,5 @@ Delete_Empty
 Calibers 1
 Caliber_0 1129
 
-Range 10
-Player_Damage 250
-Zombie_Damage 20
-Animal_Damage 20
-Barricade_Damage 300
-Structure_Damage 300
-Vehicle_Damage 20
-Resource_Damage 200
-Object_Damage 100
-Explosion 45
-Explosive
-
 Tracer 49
 Bypass_Hash_Verification
