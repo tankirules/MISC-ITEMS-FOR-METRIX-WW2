@@ -11,9 +11,6 @@ Size2_Z 0.85
 
 Magazine 113
 
-Hook_Sight
-Hook_Tactical
-Hook_Grip
 
 Ammo_Min 1
 Ammo_Max 6
@@ -51,7 +48,7 @@ Resource_Damage 10
 
 Durability 0.25
 
-Spread_Aim 0.1
+Spread_Aim 0.6
 Spread_Hip 0.1
 
 

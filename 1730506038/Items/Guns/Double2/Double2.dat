@@ -11,8 +11,6 @@ Size_Z 0.45
 
 Magazine 381
 
-Hook_Tactical
-
 Ammo_Min 1
 Ammo_Max 2
 
@@ -21,7 +19,7 @@ Semi
 
 Caliber 16
 
-Range 70
+Range 50
 Firerate 4
 Action Break
 

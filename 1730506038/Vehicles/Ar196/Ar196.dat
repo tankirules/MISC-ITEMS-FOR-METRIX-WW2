@@ -8,6 +8,9 @@ Speed_Max 35
 
 Steer_Min 15
 Steer_Max 28
+Air_Turn_Responsiveness 0.6
+Air_Steer_Min 48
+Air_Steer_Max 64
 
 Brake 32
 Lift 6
@@ -27,13 +30,9 @@ Sleds
 Traction
 Crawler
 
-Air_Turn_Responsiveness 1.2
-Air_Steer_Min 48
-Air_Steer_Max 64
-
 Exit 10
 
-Explosion 20
+Explosion 25503
 Tires_Invulnerable
 
 Turrets 3
@@ -58,3 +57,4 @@ Turret_2_Pitch_Max 180
 
 Bypass_Hash_Verification
 
+Physics_Profile 6b6c669aed18472da0fde96ebf3c3373
