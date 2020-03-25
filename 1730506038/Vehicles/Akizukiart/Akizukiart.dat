@@ -11,8 +11,7 @@ Steer_Max 450
 
 Fuel_Min 250
 Fuel_Max 500
-Fuel 8000
-
+Fuel 9000
 
 Trunk_Storage_X 9
 Trunk_Storage_Y 9
@@ -81,6 +80,6 @@ Turret_7_Item_ID 30129
 Turret_7_Yaw_Min -9999
 Turret_7_Yaw_Max 9999
 Turret_7_Pitch_Min 0
-Turret_7_Pitch_Max 360
+Turret_7_Pitch_Max 90
 Bypass_Hash_Verification
 

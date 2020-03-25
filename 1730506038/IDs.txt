@@ -204,3 +204,6 @@ tommy 30086
 30139 green
 30140 blue
 30141 yellow
+
+30142 1x high velocity lighter arty shell 
+30143 1x low heavier arty shell 
