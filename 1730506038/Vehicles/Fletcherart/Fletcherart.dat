@@ -37,26 +37,26 @@ Turret_0_Seat_Index 1
 Turret_0_Item_ID 30130
 Turret_0_Yaw_Min -135
 Turret_0_Yaw_Max 135
-Turret_0_Pitch_Min 75
-Turret_0_Pitch_Max 150
+Turret_0_Pitch_Min 30
+Turret_0_Pitch_Max 90
 Turret_1_Seat_Index 2
 Turret_1_Item_ID 30131
 Turret_1_Yaw_Min -135
 Turret_1_Yaw_Max 135
-Turret_1_Pitch_Min 75
-Turret_1_Pitch_Max 150
+Turret_1_Pitch_Min 30
+Turret_1_Pitch_Max 90
 Turret_2_Seat_Index 3
 Turret_2_Item_ID 30132
 Turret_2_Yaw_Min -135
 Turret_2_Yaw_Max 135
-Turret_2_Pitch_Min 75
-Turret_2_Pitch_Max 150
+Turret_2_Pitch_Min 30
+Turret_2_Pitch_Max 90
 Turret_3_Seat_Index 4
 Turret_3_Item_ID 30133
 Turret_3_Yaw_Min -135
 Turret_3_Yaw_Max 135
-Turret_3_Pitch_Min 75
-Turret_3_Pitch_Max 150
+Turret_3_Pitch_Min 30
+Turret_3_Pitch_Max 90
 Turret_4_Seat_Index 5
 Turret_4_Item_ID 40200
 Turret_4_Yaw_Min -9999
@@ -98,6 +98,6 @@ Turret_10_Item_ID 30129
 Turret_10_Yaw_Min -9999
 Turret_10_Yaw_Max 9999
 Turret_10_Pitch_Min 0
-Turret_10_Pitch_Max 90
+Turret_10_Pitch_Max 150
 Bypass_Hash_Verification
 
