@@ -1,0 +1,42 @@
+GUID f15433d5148f41df9c9e8a25547a9af9
+
+Type Magazine
+Rarity Epic
+ID 30147
+
+Size_X 4
+Size_Y 2
+Size_Z 0.225
+
+Amount 1
+
+Calibers 1
+Caliber_0 58120
+
+Range 5
+Player_Damage 150
+Zombie_Damage 300
+Animal_Damage 300
+Barricade_Damage 300
+Structure_Damage 300
+Vehicle_Damage 20
+Resource_Damage 200
+Object_Damage 100
+Explosion 45
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 73
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1241
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+
+Delete_Empty
+Paintable
+
+Exclude_From_Master_Bundle

@@ -207,3 +207,9 @@ tommy 30086
 
 30142 1x high velocity lighter arty shell 
 30143 1x low heavier arty shell 
+-------------vehicles AND spawners (same id)
+30144 farragut
+30145 1924 leo
+
+30146 105mm naval cannon
+30147 105mm shells aphe

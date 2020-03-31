@@ -1,0 +1,91 @@
+GUID 311215ec63ac429d882d770950c537a4
+
+
+Type Vehicle
+Rarity Epic
+ID 30144
+
+Speed_Min -4
+Speed_Max 12
+
+Steer_Min 48
+Steer_Max 126
+
+Fuel_Min 18000
+Fuel_Max 18000
+Fuel 18000
+
+Health_Min 25000
+Health_Max 25000
+Health 25000
+
+Exit 3
+
+Engine Boat
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 8
+
+
+Cam_Follow_Distance 20
+Explosion 20
+
+Turrets 8
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 30146
+Turret_0_Yaw_Min -90
+Turret_0_Yaw_Max 90
+Turret_0_Pitch_Min 10
+Turret_0_Pitch_Max 90
+
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 30146
+Turret_1_Yaw_Min -90
+Turret_1_Yaw_Max 90
+Turret_1_Pitch_Min 10
+Turret_1_Pitch_Max 110
+
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 30146
+Turret_2_Yaw_Min -90
+Turret_2_Yaw_Max 90
+Turret_2_Pitch_Min 10
+Turret_2_Pitch_Max 110
+
+Turret_3_Seat_Index 4
+Turret_3_Item_ID 30146
+Turret_3_Yaw_Min -90
+Turret_3_Yaw_Max 90
+Turret_3_Pitch_Min 10
+Turret_3_Pitch_Max 110
+
+Turret_4_Seat_Index 5
+Turret_4_Item_ID 41320
+Turret_4_Yaw_Min -360
+Turret_4_Yaw_Max 360
+Turret_4_Pitch_Min 10
+Turret_4_Pitch_Max 110
+
+Turret_5_Seat_Index 6
+Turret_5_Item_ID 41320
+Turret_5_Yaw_Min -360
+Turret_5_Yaw_Max 360
+Turret_5_Pitch_Min 10
+Turret_5_Pitch_Max 100
+
+Turret_6_Seat_Index 7
+Turret_6_Item_ID 41320
+Turret_6_Yaw_Min -360
+Turret_6_Yaw_Max 360
+Turret_6_Pitch_Min 10
+Turret_6_Pitch_Max 100
+
+Turret_7_Seat_Index 8
+Turret_7_Item_ID 41320
+Turret_7_Yaw_Min -360
+Turret_7_Yaw_Max 360
+Turret_7_Pitch_Min 10
+Turret_7_Pitch_Max 100
+
+
+Exclude_From_Master_Bundle
