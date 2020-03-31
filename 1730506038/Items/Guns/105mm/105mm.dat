@@ -22,10 +22,10 @@ Firerate 1
 Action Trigger
 
 Player_Damage 100
-Player_Leg_Multiplier 1
-Player_Arm_Multiplier 1
-Player_Spine_Multiplier 1
-Player_Skull_Multiplier 1.3
+Player_Leg_Multiplier 3
+Player_Arm_Multiplier 3
+Player_Spine_Multiplier 3
+Player_Skull_Multiplier 3
 
 Zombie_Damage 99
 Zombie_Leg_Multiplier 1.1
