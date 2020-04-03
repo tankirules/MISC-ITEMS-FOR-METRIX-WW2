@@ -6,10 +6,10 @@ Slot Primary
 ID 30141
 
 Sight 1301
-Magazine 42801
+Magazine 30149
 
-Ammo_Min 2
-Ammo_Max 2
+Ammo_Min 6
+Ammo_Max 6
 
 Semi
 Bursts 2
@@ -18,7 +18,7 @@ Caliber 1128
 
 Range 50
 Explosion 30137
-Firerate 100
+Firerate 50
 Action Rocket
 
 Ballistic_Force 6000
@@ -40,8 +40,8 @@ Recoil_Min_Y 3
 Recoil_Max_X 1		
 Recoil_Max_Y 6
 
-Recover_X 0.4
-Recover_Y 0.4
+Recover_X 0.7
+Recover_Y 0.7
 
 Muzzle 4
 

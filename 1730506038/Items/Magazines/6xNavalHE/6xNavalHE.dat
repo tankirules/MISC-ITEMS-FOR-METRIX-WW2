@@ -1,0 +1,18 @@
+GUID ac582a6d412c4604ba419bee97341a26
+Type Magazine
+Rarity Legendary
+ID 30149
+
+Size_X 2
+Size_Y 6
+Size_Z 0.5
+
+Amount 6
+Delete_Empty
+
+Calibers 1
+Caliber_0 1128
+
+Tracer 49
+Speed 0.55
+Bypass_Hash_Verification

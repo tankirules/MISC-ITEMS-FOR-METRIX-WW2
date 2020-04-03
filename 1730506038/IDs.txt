@@ -213,3 +213,5 @@ tommy 30086
 
 30146 105mm naval cannon
 30147 105mm shells aphe
+30148 5x fletcher arty shell
+30149 6x akizuki arty shell
