@@ -30,25 +30,24 @@ Replace 0.8
 Action Trigger
 
 
-Player_Damage 999
+Player_Damage 99999
 Player_Leg_Multiplier 1
 Player_Arm_Multiplier 1
 Player_Spine_Multiplier 1
 Player_Skull_Multiplier 1
 
-Zombie_Damage 0
-Zombie_Leg_Multiplier 0
-Zombie_Arm_Multiplier 0
-Zombie_Spine_Multiplier 0
-Zombie_Skull_Multiplier 0
+Zombie_Damage 99999
+Zombie_Leg_Multiplier 99
+Zombie_Arm_Multiplier 99
+Zombie_Spine_Multiplier 99
+Zombie_Skull_Multiplier 99
 
-Animal_Damage 0
-Animal_Leg_Multiplier 0
-Animal_Spine_Multiplier 0
-Animal_Skull_Multiplier 0
-
-Barricade_Damage 100000
-Structure_Damage 100000
+Animal_Damage 9999
+Animal_Leg_Multiplier 99
+Animal_Spine_Multiplier 99
+Animal_Skull_Multiplier 99
+Barricade_Damage 999999
+Structure_Damage 999999
 Vehicle_Damage 100000
 Resource_Damage 100000
 Object_Damage 100000

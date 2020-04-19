@@ -215,3 +215,8 @@ tommy 30086
 30147 105mm shells aphe
 30148 5x fletcher arty shell
 30149 6x akizuki arty shell
+
+30150 massive barricade dmg 20 range
+30151 massive barricade dmg 50 range
+30152 rickroll flare gun
+30153 rickroll explosion effect

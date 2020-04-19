@@ -1,0 +1,28 @@
+GUID 96ff1f726f0347a392788a8855af0633
+Type Magazine
+ID 30151
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Amount 200
+Count_Min 200
+Count_Max 200
+
+Calibers 1
+Caliber_0 18
+
+Tracer 48
+
+Explosion 20
+Explosive
+Range 50
+Barricade_Damage 999999
+Structure_Damage 999999
+Delete_Empty
+
+Delete_Empty
+
+Bypass_Hash_Verification
+
