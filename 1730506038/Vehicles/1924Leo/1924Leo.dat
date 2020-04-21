@@ -72,5 +72,12 @@ Turret_5_Yaw_Max 360
 Turret_5_Pitch_Min 70
 Turret_5_Pitch_Max 95
 
+Turret_6_Seat_Index 7
+Turret_6_Item_ID 40200
+Turret_6_Yaw_Min -90
+Turret_6_Yaw_Max 90
+Turret_6_Pitch_Min 10
+Turret_6_Pitch_Max 110
+
 
 Exclude_From_Master_Bundle
