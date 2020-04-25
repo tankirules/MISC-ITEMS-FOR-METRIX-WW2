@@ -16,13 +16,13 @@ Semi
 
 Caliber 58120
 
-Range 1000
+Range 1200
 Firerate 1
 Action Trigger
 
 Ballistic_Force 20
 Ballistic_Steps 100
-Ballistic_Travel 10
+Ballistic_Travel 12
 Ballistic_Drop 0.003
 
 Player_Damage 100
