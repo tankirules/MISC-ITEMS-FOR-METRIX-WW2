@@ -1,6 +1,5 @@
 GUID 066a8936872247d6b31efdb38814fa87
 
-
 Type Gun
 Rarity Epic
 Useable Gun
@@ -8,7 +7,7 @@ Slot Primary
 ID 30146
 
 Magazine 30147
-Sight 21
+Sight 148
 
 Ammo_Min 1
 Ammo_Max 1
@@ -17,9 +16,14 @@ Semi
 
 Caliber 58120
 
-Range 700
+Range 1000
 Firerate 1
 Action Trigger
+
+Ballistic_Force 20
+Ballistic_Steps 100
+Ballistic_Travel 10
+Ballistic_Drop 0.003
 
 Player_Damage 100
 Player_Leg_Multiplier 3
