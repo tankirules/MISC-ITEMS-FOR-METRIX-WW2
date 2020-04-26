@@ -29,7 +29,7 @@ Trunk_Storage_Y 8
 Cam_Follow_Distance 20
 Explosion 20
 
-Turrets 6
+Turrets 7
 Turret_0_Seat_Index 1
 Turret_0_Item_ID 30146
 Turret_0_Yaw_Min -60
@@ -76,7 +76,7 @@ Turret_6_Seat_Index 7
 Turret_6_Item_ID 40200
 Turret_6_Yaw_Min -90
 Turret_6_Yaw_Max 90
-Turret_6_Pitch_Min 10
+Turret_6_Pitch_Min 20
 Turret_6_Pitch_Max 110
 
 
