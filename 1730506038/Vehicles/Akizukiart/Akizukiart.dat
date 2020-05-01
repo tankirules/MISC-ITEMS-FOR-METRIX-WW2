@@ -81,5 +81,6 @@ Turret_7_Yaw_Min -9999
 Turret_7_Yaw_Max 9999
 Turret_7_Pitch_Min 0
 Turret_7_Pitch_Max 160
+
 Bypass_Hash_Verification
 
