@@ -18,6 +18,7 @@ Caliber 1129
 
 Range 40
 Explosion 30136
+Spawn_Explosion_On_Dedicated_Server
 Firerate 40
 Action Rocket
 
