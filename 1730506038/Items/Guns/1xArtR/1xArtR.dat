@@ -25,7 +25,7 @@ Ballistic_Force 6000
 
 Player_Damage 150
 Barricade_Damage 1500
-Structure_Damage 1500
+Structure_Damage 1000
 Vehicle_Damage 1000
 Resource_Damage 2500
 Object_Damage 2500

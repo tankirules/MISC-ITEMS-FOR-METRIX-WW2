@@ -220,3 +220,14 @@ tommy 30086
 30151 massive barricade dmg 50 range
 30152 rickroll flare gun
 30153 rickroll explosion effect
+
+30154 Torpedo/plane gun
+30155 torpedo for plane
+
+30166 ar196 torp 
+
+30167 boat torp gun
+30168 boat torp
+
+30169 fixed s38
+30170 pt6 with fixed torps

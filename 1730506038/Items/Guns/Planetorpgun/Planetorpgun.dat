@@ -1,0 +1,51 @@
+GUID 48918b59fc894c4f88ea72944b1df829
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 30154
+
+Master_Bundle_Override torpedo.masterbundle
+Bundle_Override_Path /Items/Guns/TorpB_Aerial_VisibleLoaded
+
+Asset_Bundle_Version 2
+
+Sight 1301
+Magazine 30155
+
+Ammo_Min 1
+Ammo_Max 1
+
+Semi
+Caliber 57215
+
+Firerate 50
+Action Rocket
+
+Player_Damage 200
+Zombie_Damage 5000
+Animal_Damage 5000
+Barricade_Damage 5000
+Structure_Damage 5000
+Vehicle_Damage 10000
+Resource_Damage 5000
+Object_Damage 5000
+
+Range 45
+Explosion 57215
+
+Spread_Aim 0.2
+Spread_Hip 0.05
+
+Ballistic_Force 700
+
+Recoil_Min_X -1
+Recoil_Min_Y 1
+Recoil_Max_X 1
+Recoil_Max_Y 1
+
+Recover_X 1
+Recover_Y 1
+
+Reload_Time 10
+Turret

@@ -1,7 +1,7 @@
-GUID f5258c16632d4ed9bc1588df10b008f5
+GUID 6ba460de0c684425864c08e50d974174
 Type Vehicle
 Rarity Epic
-ID 30044
+ID 30166
 
 Speed_Min -4
 Speed_Max 35
@@ -11,8 +11,9 @@ Steer_Max 28
 Air_Turn_Responsiveness 0.6
 Air_Steer_Min 48
 Air_Steer_Max 64
+
 Brake 32
-Lift 5
+Lift 6
 
 Fuel 1700
 
@@ -20,7 +21,7 @@ Battery_Burn_Rate 0
 Battery_Charge_Rate 1
 
 Health_Min 600
-Health_Max 1000
+Health_Max 700
 Health 700
 
 LockMouse
@@ -34,19 +35,25 @@ Exit 10
 Explosion 25503
 Tires_Invulnerable
 
-Turrets 2
+Turrets 3
 Turret_0_Seat_Index 0
 Turret_0_Item_ID 30154
-Turret_0_Yaw_Min -60
-Turret_0_Yaw_Max 60
-Turret_0_Pitch_Min 20
-Turret_0_Pitch_Max 110
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
 Turret_1_Seat_Index 1
-Turret_1_Item_ID 41202
+Turret_1_Item_ID 41200
 Turret_1_Yaw_Min -60
 Turret_1_Yaw_Max 60
 Turret_1_Pitch_Min 20
 Turret_1_Pitch_Max 110
+Turret_2_Seat_Index 2
+Turret_2_Item_ID 41400
+Turret_2_Yaw_Min 0
+Turret_2_Yaw_Max 0
+Turret_2_Pitch_Min 135
+Turret_2_Pitch_Max 180
 
 Bypass_Hash_Verification
 

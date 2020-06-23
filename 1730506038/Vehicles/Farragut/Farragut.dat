@@ -33,15 +33,15 @@ Explosion 20
 Turrets 8
 Turret_0_Seat_Index 1
 Turret_0_Item_ID 30146
-Turret_0_Yaw_Min -110
-Turret_0_Yaw_Max 110
+Turret_0_Yaw_Min -125
+Turret_0_Yaw_Max 125
 Turret_0_Pitch_Min 70
 Turret_0_Pitch_Max 95
 
 Turret_1_Seat_Index 2
 Turret_1_Item_ID 30146
-Turret_1_Yaw_Min -115
-Turret_1_Yaw_Max 115
+Turret_1_Yaw_Min -170
+Turret_1_Yaw_Max 170
 Turret_1_Pitch_Min 70
 Turret_1_Pitch_Max 95
 
@@ -54,8 +54,8 @@ Turret_2_Pitch_Max 95
 
 Turret_3_Seat_Index 4
 Turret_3_Item_ID 30146
-Turret_3_Yaw_Min -140
-Turret_3_Yaw_Max 140
+Turret_3_Yaw_Min -160
+Turret_3_Yaw_Max 160
 Turret_3_Pitch_Min 70
 Turret_3_Pitch_Max 95
 

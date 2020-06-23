@@ -1,0 +1,16 @@
+GUID 3d72b536cc884de9a019c12e083e0934
+Type Magazine
+Rarity Epic
+ID 30155
+
+Size_X 5
+Size_Y 2
+Size_Z 1.45
+
+Amount 1
+
+Master_Bundle_Override torpedo.masterbundle
+Bundle_Override_Path /Items/Magazines/TorpB
+
+Calibers 1
+Caliber_0 57215
