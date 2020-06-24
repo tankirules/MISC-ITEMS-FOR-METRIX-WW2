@@ -37,7 +37,7 @@ Explosion 57215
 Spread_Aim 0.2
 Spread_Hip 0.05
 
-Ballistic_Force 700
+Ballistic_Force 2000
 
 Recoil_Min_X -1
 Recoil_Min_Y 1
