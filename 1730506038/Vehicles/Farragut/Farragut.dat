@@ -8,8 +8,8 @@ ID 30144
 Speed_Min -4
 Speed_Max 12
 
-Steer_Min 360
-Steer_Max 360
+Steer_Min 500
+Steer_Max 500
 
 Fuel_Min 18000
 Fuel_Max 18000

@@ -58,11 +58,11 @@ Turret_3_Yaw_Max 135
 Turret_3_Pitch_Min 30
 Turret_3_Pitch_Max 90
 Turret_4_Seat_Index 5
-Turret_4_Item_ID 40210
+Turret_4_Item_ID 40600
 Turret_4_Yaw_Min -9999
 Turret_4_Yaw_Max 9999
-Turret_4_Pitch_Min 25
-Turret_4_Pitch_Max 170
+Turret_4_Pitch_Min 35
+Turret_4_Pitch_Max 135
 Turret_5_Seat_Index 6
 Turret_5_Item_ID 41300
 Turret_5_Yaw_Min -9999

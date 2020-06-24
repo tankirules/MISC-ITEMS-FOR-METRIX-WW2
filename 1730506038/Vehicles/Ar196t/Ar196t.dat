@@ -35,7 +35,7 @@ Exit 10
 Explosion 25503
 Tires_Invulnerable
 
-Turrets 3
+Turrets 2
 Turret_0_Seat_Index 0
 Turret_0_Item_ID 30154
 Turret_0_Yaw_Min 0
@@ -49,11 +49,6 @@ Turret_1_Yaw_Max 60
 Turret_1_Pitch_Min 20
 Turret_1_Pitch_Max 110
 Turret_2_Seat_Index 2
-Turret_2_Item_ID 41400
-Turret_2_Yaw_Min 0
-Turret_2_Yaw_Max 0
-Turret_2_Pitch_Min 135
-Turret_2_Pitch_Max 180
 
 Bypass_Hash_Verification
 
