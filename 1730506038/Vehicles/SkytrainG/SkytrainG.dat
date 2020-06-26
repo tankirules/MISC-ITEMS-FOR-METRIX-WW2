@@ -3,34 +3,33 @@ Type Vehicle
 Rarity Epic
 ID 30061
 
-Speed_Min -10
-Speed_Max 33
+Speed_Min -4
+Speed_Max 24
 
-Steer_Min 14
-Steer_Max 28
+Steer_Min 8
+Steer_Max 32
 
 Brake 32
 Lift 5
 
-Fuel_Min 50
-Fuel_Max 100
-Fuel 1750
+Fuel 2000
 
-Health_Min 300
-Health_Max 300
-Health 300
-
-Exit 6
-
-Cam_Follow_Distance 9
-Passenger_Explosion_Armor 0.2
+Health 800
 
 LockMouse
 Engine Plane
 Sleds
 Traction
 
-Explosion 20
+Trunk_Storage_X 7
+Trunk_Storage_Y 5
 
-Bypass_Hash_Verification
+Cam_Follow_Distance 12
+
+Explosion 25503
+
+Invulnerable
+Tires_Invulnerable
+
+Physics_Profile 6b6c669aed18472da0fde96ebf3c3373
 
