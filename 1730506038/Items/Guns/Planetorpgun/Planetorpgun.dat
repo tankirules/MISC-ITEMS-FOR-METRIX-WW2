@@ -22,14 +22,16 @@ Caliber 57215
 Firerate 50
 Action Rocket
 
-Player_Damage 200
+Player_Damage 130
 Zombie_Damage 5000
 Animal_Damage 5000
-Barricade_Damage 5000
-Structure_Damage 5000
+Barricade_Damage 3500
+Structure_Damage 3500
 Vehicle_Damage 10000
-Resource_Damage 5000
-Object_Damage 5000
+Resource_Damage 3000
+Object_Damage 3000
+
+Range 60
 
 Range 45
 Explosion 57215
