@@ -1,0 +1,61 @@
+GUID 8667ad3d2b2b463eb7cd07810f9da614
+Type Vehicle
+Rarity Rare
+ID 30174
+
+Speed_Min -9.8
+Speed_Max 25
+
+Steer_Min 180
+Steer_Max 180
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 5000
+
+Health_Min 5000
+Health_Max 6000
+Health 6000
+
+Exit 7
+
+Cam_Follow_Distance 10
+Bumper_Multiplier 2
+Passenger_Explosion_Armor 0.05
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Engine Boat
+
+Explosion 20
+
+Turrets 4
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 41300
+Turret_0_Yaw_Min -9999
+Turret_0_Yaw_Max 9999
+Turret_0_Pitch_Min 15
+Turret_0_Pitch_Max 110
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 41300
+Turret_1_Yaw_Min -9999
+Turret_1_Yaw_Max 9999
+Turret_1_Pitch_Min 1
+Turret_1_Pitch_Max 110
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 30167
+Turret_2_Yaw_Min -0
+Turret_2_Yaw_Max 0
+Turret_2_Pitch_Min 90
+Turret_2_Pitch_Max 90
+Turret_3_Seat_Index 4
+Turret_3_Item_ID 276
+Turret_3_Yaw_Min -9999
+Turret_3_Yaw_Max 9999
+Turret_3_Pitch_Min 60
+Turret_3_Pitch_Max 105
+
+Exclude_From_Master_Bundle

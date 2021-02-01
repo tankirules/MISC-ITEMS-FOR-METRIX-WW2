@@ -236,3 +236,7 @@ tommy 30086
 30172 r301 Spawner, VEHICLE ID IS 21302
 
 30173 2x naval artilelry HE shells
+
+
+------vehicles AND spawners----
+30174 g-5 with maikees torpeods
