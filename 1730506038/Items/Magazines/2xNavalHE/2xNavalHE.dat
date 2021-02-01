@@ -1,0 +1,17 @@
+GUID 3ad43984966847e094f15db18f7ecdc5
+Type Magazine
+Rarity Legendary
+ID 30173
+
+Size_X 1
+Size_Y 3
+Size_Z 0.5
+
+Amount 2
+Delete_Empty
+
+Calibers 1
+Caliber_0 1129
+
+Tracer 49
+Bypass_Hash_Verification

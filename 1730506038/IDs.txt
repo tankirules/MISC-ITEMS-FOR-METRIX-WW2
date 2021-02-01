@@ -233,3 +233,6 @@ tommy 30086
 30170 pt6 with fixed torps
 
 30171 BMO spawner, BMO VEHICLE ID IS 20302
+30172 r301 Spawner, VEHICLE ID IS 21302
+
+30173 2x naval artilelry HE shells
