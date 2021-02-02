@@ -240,3 +240,8 @@ tommy 30086
 
 ------vehicles AND spawners----
 30174 g-5 with maikees torpeods
+----------efes clothes---------
+30175 -30214 efes clothes
+--------------------------------
+
+

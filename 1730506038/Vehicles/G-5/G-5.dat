@@ -58,4 +58,4 @@ Turret_3_Yaw_Max 9999
 Turret_3_Pitch_Min 60
 Turret_3_Pitch_Max 105
 
-Exclude_From_Master_Bundle
+Bypass_Hash_Verification

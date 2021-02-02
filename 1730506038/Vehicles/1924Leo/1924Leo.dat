@@ -1,4 +1,4 @@
-GUID 97d866ddc88c44b3ba29de8cf3158c3f
+GUID 1e7fac64f63548ce8cf9c6314e1ac4df
 
 Type Vehicle
 Rarity Epic
@@ -26,7 +26,7 @@ Trunk_Storage_X 8
 Trunk_Storage_Y 8
 
 
-Cam_Follow_Distance 20
+Cam_Follow_Distance 40
 Explosion 20
 
 Turrets 7
