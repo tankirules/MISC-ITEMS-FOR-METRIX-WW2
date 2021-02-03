@@ -41,10 +41,12 @@
 30028 - springfield
 30029 - springfield clip
 
-30030 - Lee Enfield no 4 mk 1 
+30030 - Lee Enfield no 4 mk 1 with fast bolt cycle
 30031 - Lee Clip .303 10 rounds
 
 30032 - De Lisle Carbine
+
+
 30033 - SMLE
 
 30034 Carcano
@@ -243,5 +245,8 @@ tommy 30086
 ----------efes clothes---------
 30175 -30214 efes clothes
 --------------------------------
+
+------------items------------------
+30176 8x lee sight
 
 

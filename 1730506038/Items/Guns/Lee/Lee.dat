@@ -8,11 +8,11 @@ Size_X 5
 Size_Y 2
 Size_Z 0.4
 
+Grip 30036
 Magazine 30031
 
 Hook_Sight
 Hook_Tactical
-Hook_Grip
 Hook_Barrel
 
 Ammo_Min 10
@@ -77,6 +77,8 @@ Shake_Max_Z -0.1
 
 Muzzle 4
 
+Reload_Time 13
+
 Blueprints 2
 Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 67
@@ -92,3 +94,4 @@ Bypass_Hash_Verification
 
 Asset_Bundle_Version 3
 
+	
