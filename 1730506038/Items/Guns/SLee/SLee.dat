@@ -2,14 +2,14 @@ GUID 2d1d60d1e2664895b8d85c4c1f719741
 Type Gun
 Useable Gun
 Slot Primary
-ID 30217
+ID 30256
 
 Size_X 5
 Size_Y 2
 Size_Z 0.4
 
 Magazine 30031
-Sight 30215
+Sight 30254
 
 Hook_Tactical
 Hook_Barrel
@@ -85,7 +85,7 @@ Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 30217
+Blueprint_1_Supply_0_ID 30256
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27

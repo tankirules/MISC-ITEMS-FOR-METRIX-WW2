@@ -243,11 +243,11 @@ tommy 30086
 ------vehicles AND spawners----
 30174 g-5 with maikees torpeods
 ----------efes clothes---------
-30175 -30214 efes clothes
+30175 -30253 efes clothes
 --------------------------------
 
 ------------items------------------
-30215 8x lee sight
-30216 8x mosin PU
-30217 rifle no 4 with scope
-30218 SMLE scoped
+30254 8x lee sight
+30255 8x mosin PU
+30256 rifle no 4 with scope
+30257 SMLE scoped
