@@ -74,6 +74,9 @@ Shake_Max_Z -0.1
 
 Muzzle 4
 
+Ballistic_Steps 27
+Ballistic_Travel 14.5
+
 Blueprints 2
 Blueprint_0_Type Repair
 Blueprint_0_Supplies 1

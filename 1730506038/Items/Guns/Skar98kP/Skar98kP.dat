@@ -22,7 +22,7 @@ Semi
 
 Caliber 5
 
-Range 450
+Range 600
 Firerate 50
 Action Bolt
 
@@ -53,6 +53,9 @@ Durability 0.5
 
 Spread_Aim 0.01
 Spread_Hip 0.2
+
+Ballistic_Steps 27
+Ballistic_Travel 14.5
 
 Recoil_Aim 0.5
 Recoil_Min_X -8

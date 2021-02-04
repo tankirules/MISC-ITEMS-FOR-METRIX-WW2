@@ -15,7 +15,7 @@ Hook_Sight
 Hook_Tactical
 Hook_Barrel
 
-Ammo_Min 1
+Ammo_Min 10
 Ammo_Max 10
 
 Safety
@@ -76,8 +76,6 @@ Shake_Max_Y -0.005
 Shake_Max_Z -0.1
 
 Muzzle 4
-
-Reload_Time 13
 
 
 Blueprints 2
