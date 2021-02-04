@@ -14,7 +14,10 @@ Magazine 24106
 
 Sight 59557
 
-Ammo_Min 1
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 5
 Ammo_Max 5
 
 Safety
