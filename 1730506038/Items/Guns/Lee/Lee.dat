@@ -27,22 +27,23 @@ Range 600
 Firerate 54
 Action Bolt
 
-Player_Damage 99
-Player_Leg_Multiplier 0.7
+Player_Damage 100
+Player_Leg_Multiplier 0.8
 Player_Arm_Multiplier 0.7
-Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 1.1
+Player_Spine_Multiplier 0.9
+Player_Skull_Multiplier 1.2
+Instakill_Headshots True
 
 Zombie_Damage 99
-Zombie_Leg_Multiplier 1.5
-Zombie_Arm_Multiplier 1.5
-Zombie_Spine_Multiplier 1.5
-Zombie_Skull_Multiplier 1.5
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
 
 Animal_Damage 99
-Animal_Leg_Multiplier 1.5
-Animal_Spine_Multiplier 1.5
-Animal_Skull_Multiplier 1.5
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
 
 Barricade_Damage 50
 Structure_Damage 50

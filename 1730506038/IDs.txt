@@ -248,5 +248,6 @@ tommy 30086
 
 ------------items------------------
 30215 8x lee sight
-
-
+30216 8x mosin PU
+30217 rifle no 4 with scope
+30218 SMLE scoped
