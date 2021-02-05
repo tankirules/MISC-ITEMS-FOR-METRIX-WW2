@@ -23,7 +23,7 @@ Ammo_Max 5
 Safety
 Semi
 
-Caliber 5
+Caliber 70
 
 Range 600
 Firerate 50
@@ -54,20 +54,20 @@ Object_Damage 20
 
 Durability 0.5
 
-Spread_Aim 0.01
-Spread_Hip 0.2
+Spread_Aim 0.001
+Spread_Hip 0.35
 
 Ballistic_Steps 27
 Ballistic_Travel 14.5
 
-Recoil_Aim 0.5
-Recoil_Min_X -8
-Recoil_Min_Y 20
-Recoil_Max_X 8
-Recoil_Max_Y 25
+Recoil_Aim 0.05
+Recoil_Min_X -4
+Recoil_Min_Y 25
+Recoil_Max_X -5
+Recoil_Max_Y 30
 
-Recover_X 0.3
-Recover_Y 0.3
+Recover_X 0.25
+Recover_Y 0.25
 
 Shake_Min_X -0.005
 Shake_Min_Y 0.005
@@ -87,7 +87,8 @@ Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 24006
+Blueprint_1_Supply_0_ID 30001
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
+Bypass_Hash_veri

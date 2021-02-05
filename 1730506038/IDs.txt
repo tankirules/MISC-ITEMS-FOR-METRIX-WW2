@@ -249,5 +249,7 @@ tommy 30086
 ------------items------------------
 30254 8x lee sight
 30255 8x mosin PU
-30256 rifle no 4 with scope
+30256 lee enfield no 4 with scope
 30257 SMLE scoped
+24106 fixed kar clip caliber 70
+24100 fixed mosin clip caliber 70

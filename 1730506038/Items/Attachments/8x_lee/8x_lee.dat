@@ -1,3 +1,4 @@
+GUID 1b39e763b806484f872ca50d8f4f8599
 Type Sight
 Rarity Rare
 ID 30254
@@ -6,5 +7,9 @@ Size_X 2
 Size_Y 1
 Size_Z 0.2
 
+
 Spread 0.6
-Zoom 6
+Shake 0.8
+Zoom 8
+
+Bypass_Hash_Verification
