@@ -10,7 +10,7 @@ Size_Y 2
 Size_Z 0.4
 Size2_Z 0.8
 
-Magazine 24100
+Magazine 30259
 
 
 Sight 30255
@@ -24,7 +24,7 @@ Ammo_Max 5
 Safety
 Semi
 
-Caliber 5
+Caliber 70
 
 Range 450
 Firerate 50

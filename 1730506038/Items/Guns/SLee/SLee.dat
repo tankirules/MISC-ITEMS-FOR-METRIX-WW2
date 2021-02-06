@@ -24,7 +24,7 @@ Semi
 Caliber 55
 
 Range 600
-Firerate 54
+Firerate 50
 Action Bolt
 
 Player_Damage 100
@@ -32,7 +32,6 @@ Player_Leg_Multiplier 0.8
 Player_Arm_Multiplier 0.7
 Player_Spine_Multiplier 0.9
 Player_Skull_Multiplier 1.2
-Instakill_Headshots True
 
 Zombie_Damage 99
 Zombie_Leg_Multiplier 0.3
@@ -45,14 +44,13 @@ Animal_Leg_Multiplier 0.6
 Animal_Spine_Multiplier 0.8
 Animal_Skull_Multiplier 1.1
 
-Barricade_Damage 50
-Structure_Damage 50
-Vehicle_Damage 0
-Resource_Damage 30
+Barricade_Damage 20
+Structure_Damage 5
+Vehicle_Damage 5
+Resource_Damage 20
+Object_Damage 20
 
-Invulnerable
-
-Durability 1
+Durability 0.5
 
 Spread_Aim 0.001
 Spread_Hip 0.35
@@ -75,6 +73,8 @@ Shake_Min_Z -0.05
 Shake_Max_X 0.005
 Shake_Max_Y -0.005
 Shake_Max_Z -0.1
+
+Invulnerable
 
 Muzzle 4
 
