@@ -251,5 +251,5 @@ tommy 30086
 30255 8x mosin PU
 30256 lee enfield no 4 with scope
 30257 SMLE scoped
-24106 fixed kar clip caliber 70
-24100 fixed mosin clip caliber 70
+30258 fixed kar clip caliber 70
+30259 fixed mosin clip caliber 70
