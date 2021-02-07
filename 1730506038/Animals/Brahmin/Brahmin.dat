@@ -1,0 +1,16 @@
+Type Animal
+ID 30262
+
+Speed_Run 12
+Speed_Walk 4
+
+Behaviour Ignore
+
+Health 125
+
+Reward_ID 524
+Reward_XP 5
+Reward_Min 2
+Reward_Max 3
+
+Panics 1

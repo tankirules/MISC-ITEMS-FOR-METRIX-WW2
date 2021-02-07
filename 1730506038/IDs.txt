@@ -253,3 +253,9 @@ tommy 30086
 30257 SMLE scoped
 30258 fixed kar clip caliber 70
 30259 fixed mosin clip caliber 70
+
+
+----------animals-----------------
+30260 croc
+30261 cubeclaw(deathclaw)
+30262 brahmin double headed cow(passive)
