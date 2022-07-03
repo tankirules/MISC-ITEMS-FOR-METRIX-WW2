@@ -10,10 +10,10 @@ Size_Z 0.4
 
 Magazine 30031
 Sight 30254
+Grip 30082
 
 Hook_Tactical
 Hook_Barrel
-Hook_Grip
 
 Ammo_Min 10
 Ammo_Max 10

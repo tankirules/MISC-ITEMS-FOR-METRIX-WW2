@@ -63,7 +63,7 @@
 30041 fw190
 30042 emil
 30043 mustang
-30044 SBD
+30044 SBD WITH TOREPDOS
 30045 spitfire
 30046 typhoon
 30047 hurricane
@@ -259,3 +259,7 @@ tommy 30086
 30260 croc
 30261 cubeclaw(deathclaw)
 30262 brahmin double headed cow(passive)
+
+---------spawners only--------------
+30263 gnevy destroyer soviet vehicle id 20303
+30264 1934 destroyer axis vehicle id 21303
