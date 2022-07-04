@@ -263,3 +263,6 @@ tommy 30086
 ---------spawners only--------------
 30263 gnevy destroyer soviet vehicle id 20303
 30264 1934 destroyer axis vehicle id 21303
+
+---------effects--------------
+30365 viewangle feffect
