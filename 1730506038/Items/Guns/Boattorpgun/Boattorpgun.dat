@@ -13,8 +13,8 @@ Asset_Bundle_Version 2
 Sight 1301
 Magazine 30168
 
-Ammo_Min 4
-Ammo_Max 4
+Ammo_Min 2
+Ammo_Max 2
 
 Semi
 Caliber 57216
@@ -47,5 +47,5 @@ Recoil_Max_Y 1
 Recover_X 1
 Recover_Y 1
 
-Reload_Time 5
+Reload_Time 8
 Turret
