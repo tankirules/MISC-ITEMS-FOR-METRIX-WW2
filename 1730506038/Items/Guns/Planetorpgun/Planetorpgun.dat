@@ -33,7 +33,7 @@ Object_Damage 3000
 
 Range 60
 
-Range 45
+Range 30
 Explosion 57215
 
 Spread_Aim 0.2

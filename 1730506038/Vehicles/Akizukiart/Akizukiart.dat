@@ -6,8 +6,8 @@ ID 30081
 Speed_Min -24
 Speed_Max 45
 
-Steer_Min 450
-Steer_Max 450
+Steer_Min 600
+Steer_Max 600
 
 Fuel_Min 250
 Fuel_Max 500
