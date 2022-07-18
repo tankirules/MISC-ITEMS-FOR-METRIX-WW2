@@ -1,0 +1,35 @@
+GUID ab2aefbb358f4e51abf4336709ddaa5d
+Type Magazine
+ID 14239
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 30
+Count_Min 10
+Count_Max 30
+
+Calibers 1
+Caliber_0 1
+
+Tracer 48
+Spread 0.85
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14239
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 17
+Blueprint_2_Build 30
+
+Paintable
+Bypass_Hash_Verification
+

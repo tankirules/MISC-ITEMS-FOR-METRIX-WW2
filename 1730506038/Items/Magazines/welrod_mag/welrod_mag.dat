@@ -1,0 +1,28 @@
+GUID aa5d0f668be7417ab9bc36f9712d56ea
+Type Magazine
+ID 14221
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Amount 6
+Count_Min 1
+Count_Max 6
+
+Calibers 1
+Caliber_0 3
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14221
+Blueprint_1_Build 30
+Bypass_Hash_Verification
+
