@@ -266,3 +266,7 @@ tommy 30086
 
 ---------effects--------------
 30365 viewangle feffect
+30366 rangefinder effect
+
+---------------spawners------------------
+30367 flak88 spawners vehicle id 32009
