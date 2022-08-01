@@ -33,7 +33,7 @@ Object_Damage 2500
 
 Invulnerable
 
-Spread_Aim 0.2
+Spread_Aim 0
 Spread_Hip 0.025
 
 Recoil_Min_X -1
