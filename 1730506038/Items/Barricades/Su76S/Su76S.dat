@@ -1,0 +1,16 @@
+GUID 11bd9cb7149546479c9a816e41dd4933
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Vehicle
+ID 30370
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 20107 
+Bypass_Hash_Verification
